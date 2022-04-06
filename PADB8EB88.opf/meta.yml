@@ -1,0 +1,31 @@
+id: PADB8EB88
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6187
+  instance_id: http://purl.bdrc.io/resource/IE1KG6187
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མན་ངག་ལྷན་ཐབས་ཀྱི་བརྡ་བཀྲོལ་རྣམ་རྒྱལ་གསེར་མདོག་གི་ཕྲེང་བ།
+  alt_title:
+    zh-hans:
+    - 藏医秘诀补遗之名词诠释尊胜金诃宝鬘
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0a77120abecb47ee9c2cd1ac1effc0e7:
+      title: པོད ༡་མན་ངག་ལྷན་ཐབས་ཀྱི་བརྡ་བཀྲོལ་རྣམ་རྒྱལ་གསེར་མདོག་གི་ཕྲེང་བ།
+      volume_number: 1
+      base_file: UT1KG6187_I1KG6219_0000.txt
+      reference: http://purl.bdrc.io/resource/VLB70C2787582D8F89
+      image_group: I1KG6219
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6187
+  - http://purl.bdrc.io/resource/W1KG6187
+  ocr_software: Namsel
+created_at: '2021-12-22T10:57:36.330202'
+last_modified_at: '2021-12-22T10:57:36.330209'
